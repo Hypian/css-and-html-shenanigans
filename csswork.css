@@ -7,5 +7,8 @@ h1{
     color: green;
 }
 #forms {
+    position: absolute;
+    top: 350px;
+    left: 150px;
     
 }
