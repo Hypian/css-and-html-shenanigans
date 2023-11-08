@@ -1,16 +1,4 @@
-body{
-    background-color: rgb(54, 139, 196);
-}
 h1{
-
- font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-button{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    border-radius: 32px,64px;
-    text-decoration: dotted;
-    text-rendering: inherit;
-    background-origin: padding-box;
-    padding: 11,11;
+    background-color: red;
+    color: green;
 }
