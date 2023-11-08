@@ -12,3 +12,9 @@ h1{
     left: 150px;
     
 }
+input[type="submit"]{
+    margin: auto;
+    width: 300px;
+    color: black;
+    background-color: green;
+}
