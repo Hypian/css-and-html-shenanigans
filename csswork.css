@@ -2,6 +2,9 @@
    width: 300px;
    margin: auto; 
 }
+body{
+    background-color: darkgreen;
+}
 h1{
 
     color: green;
@@ -17,4 +20,5 @@ input[type="submit"]{
     width: 300px;
     color: black;
     background-color: green;
+    padding: 10px 20px
 }
