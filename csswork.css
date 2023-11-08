@@ -10,12 +10,15 @@ h1{
     color: rgb(254, 255, 254);
 }
 #forms {
+    font-family: sans-serif;
     position: absolute;
     top: 350px;
     left: 150px;
     
 }
 input[type="submit"]{
+    font-weight: 400;
+    font-family: sans-serif;
     margin: auto;
     width: 300px;
     color: black;
