@@ -1,7 +1,9 @@
+html{
+    cursor: url (i class="fa-solid fa-computer-mouse") auto ;
+}
 #header{
    width: 300px;
    margin: auto; 
-   cursor: pointer;
 }
 body{
     background-color: darkgreen;
