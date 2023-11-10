@@ -1,6 +1,4 @@
-html{
-    cursor: url (i class="fa-solid fa-computer-mouse") auto ;
-}
+
 #header{
    width: 300px;
    margin: auto; 
@@ -29,4 +27,5 @@ input[type="submit"]{
     color: black;
     background-color: green;
     padding: 10px 20px
+    cursor: url(class="fa-solid fa-computer-mouse");
 }
