@@ -1,6 +1,7 @@
 #header{
    width: 300px;
    margin: auto; 
+   cursor: pointer;
 }
 body{
     background-color: darkgreen;
@@ -10,7 +11,7 @@ h1{
     color: rgb(254, 255, 254);
 }
 #forms {
-    cursor: pointer;
+    
     font-weight: bold;
     font-family: sans-serif;
     position: absolute;
