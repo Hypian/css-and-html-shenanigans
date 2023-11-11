@@ -28,5 +28,7 @@ body {
     border: none;
     border-radius: 0.5em;
     outline: none;
-    color: black;
+    color: white;
+    padding: 0.8em;
+    
 }
