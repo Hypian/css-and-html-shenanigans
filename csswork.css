@@ -30,5 +30,22 @@ body {
     outline: none;
     color: white;
     padding: 0.8em;
-    
+}
+.car{
+    cursor: url("images/car.png"), auto;
+}
+.tree{
+    cursor: url("images/tree.png"), auto;
+}
+.house{
+    cursor: url("images/house.png"), auto;
+}
+.wand{
+    cursor: url("images/wand.png"), auto;
+}
+.desktop{
+    cursor: url("images/desktop.png"), auto;
+}
+.flag{
+    cursor: url("images/flags.png"), auto;
 }
