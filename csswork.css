@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 body {
-   background-color:  lightblue;
+   background-color:  rgb(26, 55, 65);
 }
 
 .container{
-    background-color: white;
+    background-color: rgb(22, 46, 53);
     width: 90%;
     max-width: 50em;
     padding: 5em 2em;
@@ -18,5 +18,9 @@ body {
     left: 50%;
     border-radius: 0.5em;
   display: grid;
-  grid-template-columns: repeat(3,1fr);
+  grid-template-columns: repeat(3,2fr);
+  gap: 2.5em 2em;
+}
+.container button{
+    font-family: "Poppins", sans-serif ;
 }
