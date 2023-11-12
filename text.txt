@@ -2,3 +2,6 @@
 2. Image into link this is achieved by wrapping anchor tag around img tag
 3. Section element is used to separate a certain Section in a web from others
 4. ul tag and ol are used to create an ordered lists in html
+5. li tag is used create items in a list 
+6. Figure element used to encapsulate certain text content  and be able to caption items
+using the figcaption element  
