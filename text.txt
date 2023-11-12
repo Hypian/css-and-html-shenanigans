@@ -1,7 +1,8 @@
 1. Target attribute / Done
 2. Image into link this is achieved by wrapping anchor tag around img tag
 3. Section element is used to separate a certain Section in a web from others
-4. ul tag and ol are used to create an ordered lists in html
+4. ul tag and ol are used to create an unordered  and an ordered lists in html respectively
 5. li tag is used create items in a list 
 6. Figure element used to encapsulate certain text content  and be able to caption items
-using the figcaption element  
+using the figcaption element  even emphasis tag can be deployed as well
+8. The strong element is used to define text of caution or of great importance
