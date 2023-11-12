@@ -1,1 +1,2 @@
 1. Target attribute / Done
+2. Image into link this is achieved by wrapping anchor tag around img tag
