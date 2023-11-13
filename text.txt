@@ -1,3 +1,4 @@
+
 1. Target attribute / Done
 2. Image into link this is achieved by wrapping anchor tag around img tag
 3. Section element is used to separate a certain Section in a web from others
@@ -6,3 +7,5 @@
 6. Figure element used to encapsulate certain text content  and be able to caption items
 using the figcaption element  even emphasis tag can be deployed as well
 8. The strong element is used to define text of caution or of great importance
+9. Label is use to to help associate the text for an input element 
+especially for screen readers
