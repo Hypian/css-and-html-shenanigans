@@ -6,3 +6,5 @@
 6. Figure element used to encapsulate certain text content  and be able to caption items
 using the figcaption element  even emphasis tag can be deployed as well
 8. The strong element is used to define text of caution or of great importance
+9. The form element is used to add user input that include passwords and usenames and other  
+10.The radio button is used 
