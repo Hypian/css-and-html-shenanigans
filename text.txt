@@ -15,3 +15,4 @@ using the figcaption element  even emphasis tag can be deployed as well
 especially for screen readers
 >>>>>>> 5cb684b9553902fdfae9f8dedb9bb58621349997
 11. To be able to not select two radio attributes at the same time one can assign a similar value to both
+12. Fieldset is similar to figurre but it is used to group form data with even a somewhat default border
