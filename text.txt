@@ -14,3 +14,4 @@ using the figcaption element  even emphasis tag can be deployed as well
 9. Label is use to to help associate the text for an input element 
 especially for screen readers
 >>>>>>> 5cb684b9553902fdfae9f8dedb9bb58621349997
+11. To be able to not select two radio attributes at the same time one can assign a similar value to both
