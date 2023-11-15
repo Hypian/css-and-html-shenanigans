@@ -18,3 +18,4 @@ especially for screen readers
 12. Fieldset is similar to figurre but it is used to group form data with even a somewhat default border
 13. For element is also used to associate text to a certain element especially when making browser functions like checkboxes and other buttons user friendly
 by connecting text to functionality
+14.Checked attribute helps check a checkbox input type but default
