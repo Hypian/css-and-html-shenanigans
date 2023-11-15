@@ -20,3 +20,5 @@ especially for screen readers
 by connecting text to functionality
 14.Checked attribute helps check a checkbox input type but default
 15. Footer element helps wrap info that contains <p> content mostly copyrights and other related content
+16. Form atribute used to input user iput such as passcodes and usernames encapsulate
+17. The action attribute is used to specify the form data final destination or where it should be sent to
