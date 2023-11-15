@@ -22,3 +22,4 @@ by connecting text to functionality
 15. Footer element helps wrap info that contains <p> content mostly copyrights and other related content
 16. Form atribute used to input user iput such as passcodes and usernames encapsulate
 17. The action attribute is used to specify the form data final destination or where it should be sent to
+18. Title elements show browser title info to users
