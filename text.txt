@@ -19,3 +19,4 @@ especially for screen readers
 13. For element is also used to associate text to a certain element especially when making browser functions like checkboxes and other buttons user friendly
 by connecting text to functionality
 14.Checked attribute helps check a checkbox input type but default
+15. Footer element helps wrap info that contains <p> content mostly copyrights and other related content
