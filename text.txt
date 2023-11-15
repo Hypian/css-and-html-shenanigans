@@ -1,5 +1,5 @@
 
-1. Target attribute / Done
+1. Target attribute it is used to specify what a link should di it is mainly used with the "_blank" this specifies to open in new tab/ Done
 2. Image into link this is achieved by wrapping anchor tag around img tag
 3. Section element is used to separate a certain Section in a web from others
 4. ul tag and ol are used to create an unordered  and an ordered lists in html respectively
